@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "django-video-encoding"
+name = "django-video-encoding-updated"
 version = "1.0.0"
 description = "django-video-encoding helps to convert your videos into different formats and resolutions."
 authors = [
